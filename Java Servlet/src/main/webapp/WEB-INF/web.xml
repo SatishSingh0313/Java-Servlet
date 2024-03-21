@@ -4,7 +4,7 @@
  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
  http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
  
-  <display-name>Crud_Servlet</display-name>
+  <display-name>Java_Servlet</display-name>
   <welcome-file-list>
     <welcome-file>signup.jsp</welcome-file>
      <welcome-file>login.jsp</welcome-file>
